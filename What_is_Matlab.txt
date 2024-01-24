@@ -1,0 +1,27 @@
+ --What is MATLAB--
+
+-MATLAB stands for Matrices Laboratory it's a high performance
+ language for technical computing. It integrates computation,
+ visualization and programming algorithms in an easy to use environment.
+
+-It's different than any other programming language because MATLAB is
+ mostly for mathematics and it uses the programming by matrices.
+ 
+-MATLAB is used in academia so if you're doing a researach most probably
+ you will use MATLAB it's also used in different engineering fields, 
+ economics, finance and so on.
+
+--What MATLAB can do--
+
+-Solve mathematical problems.
+-Code programs and build algorithms.
+ 
+
+--The MATLAB system--
+
+-The MATLAB system consists of 5 main parts:
+1.The MATLAB language.
+2.The MATLAB working environment.
+3.Hndle Graphics.
+4.The MATLAB mathematical function library.
+5.The MATLAB Application Program Interface (API).
